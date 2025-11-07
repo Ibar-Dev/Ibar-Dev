@@ -32,8 +32,8 @@
 
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibarjl)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ibarjl&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Ibarjl)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibar-Dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ibar-Dev&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Ibar-Dev)
 
 <br/>
 
@@ -134,7 +134,7 @@ me.say_hi()
 <h3 align="center">🐍 Proyecto Python</h3>
 <div align="center">
 <a href="https://github.com/Ibar-Dev/PyChecker" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibarjl&repo=REPO1&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibar-Dev&repo=PyChecker&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <p>
 <a href="https://github.com/Ibar-Dev/PyChecker" target="_blank">
@@ -194,14 +194,14 @@ me.say_hi()
 ## 📊 Analytics & Trophies
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ibarjl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibarjl&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ibar-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibar-Dev&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibarjl&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibar-Dev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" width="50%"/>
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibarjl&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibar-Dev&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Ibarjl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ibar-Dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" width="100%"/>
 </div>
 
 ---
