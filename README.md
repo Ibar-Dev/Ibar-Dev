@@ -12,7 +12,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4063D8,25:CB3C33,50:389826,75:9558B2,100:4063D8&height=120&section=header&text=IBAR%20E.%20VIVAS&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=60" alt="Header Top"/>
 
 <!-- Typing animation con color morado Julia -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9558B2&center=true&vCenter=true&width=800&height=80&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+Wizard+%E2%9A%A1;High-Performance+Architect+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Computational+Excellence+%E2%9C%A8" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9558B2&center=true&vCenter=true&width=800&height=80&lines=Python+%F0%9F%90%8D+%7C+Julia+%F0%9F%94%B4+Developer;Scientific+Computing+Wizard+%E2%9A%A1;High-Performance+Architect+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Computational+Excellence+%E2%9C%A8" alt="Typing"/>
+
 
 <!-- Banner inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:9558B2,25:389826,50:CB3C33,75:4063D8,100:9558B2&height=10&section=footer" alt="Header Bottom"/>
