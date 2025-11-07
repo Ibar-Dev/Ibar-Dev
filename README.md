@@ -6,9 +6,21 @@
 <!-- CABECERA CON ANIMACIÓN Y GRADIENTE -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF00,50:00FFFF,100:FF00FF&height=200&section=header&text=IBAR%20E.%20VIVAS&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⚡%20Computational%20Developer%20|%20Python%20🐍%20Julia%20🔴%20|%20High%20Performance%20Computing%20⚡&descAlignY=65&descAlign=50&descSize=18" alt="Header"/>
+<!-- Banner superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=IBAR%20E.%20VIVAS&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" alt="Header Top"/>
+
+<!-- Subtítulo con typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+Specialist+%E2%9A%A1;High-Performance+Code+Architect+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Building+Elegant+Solutions+%E2%9C%A8" alt="Typing"/>
+
+<!-- Banner inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=10&section=footer" alt="Header Bottom"/>
 
 </div>
+
+
+
+
+
 <!-- Gradiente SVG personalizado tipo snake segment -->
 <svg width="320" height="38" viewBox="0 0 320 38" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
