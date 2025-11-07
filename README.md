@@ -150,14 +150,14 @@ me.say_hi()
 <td width="50%">
 <h3 align="center">🔴 Proyecto Julia</h3>
 <div align="center">
-<a href="https://github.com/Ibarjl/REPO2" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibarjl&repo=REPO2&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/Ibar-Dev/Julia_Curso_Completo" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibar-Dev&repo=Julia_Curso_Completo&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <p>
-<a href="https://github.com/Ibarjl/REPO2" target="_blank">
+<a href="https://github.com/Ibar-Dev/Julia_Curso_Completo" target="_blank">
 <img src="https://img.shields.io/badge/CODE-gray?style=for-the-badge&logo=github&logoColor=white"/>
 </a>  
-<a href="https://github.com/Ibarjl/REPO2" target="_blank">
+<a href="https://github.com/Ibar-Dev/Julia_Curso_Completo" target="_blank">
 <img src="https://img.shields.io/badge/⭐-gray?style=for-the-badge"/>
 </a>
 </p>
