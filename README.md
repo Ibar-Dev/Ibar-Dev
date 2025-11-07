@@ -4,16 +4,24 @@
 ## Computational Developer & Data Enthusiast-->
 
 <!-- CABECERA CON ANIMACIÓN Y GRADIENTE -->
+
+
 <div align="center">
 
-<!-- Banner superior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=IBAR%20E.%20VIVAS&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" alt="Header Top"/>
+<!-- Banner superior sunset -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f12711,50:f5af19,100:f12711&height=120&section=header&text=IBAR%20E.%20VIVAS&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=60" alt="Header Top"/>
 
-<!-- Subtítulo con typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+Specialist+%E2%9A%A1;High-Performance+Code+Architect+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Building+Elegant+Solutions+%E2%9C%A8" alt="Typing"/>
+<!-- Typing animation naranja -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=F5AF19&center=true&vCenter=true&width=800&height=80&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+Wizard+%E2%9A%A1;High-Performance+Architect+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Computational+Excellence+%E2%9C%A8" alt="Typing"/>
 
 <!-- Banner inferior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=10&section=footer" alt="Header Bottom"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f12711,50:f5af19,100:f12711&height=10&section=footer" alt="Header Bottom"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibar-Dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ibar-Dev&style=for-the-badge&color=orange&label=Profile+Views)](https://github.com/Ibar-Dev)
 
 </div>
 
@@ -21,40 +29,13 @@
 
 
 
-<!-- Gradiente SVG personalizado tipo snake segment -->
-<svg width="320" height="38" viewBox="0 0 320 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="snake-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff6b6b"/>
-      <stop offset="50%" stop-color="#4ecdc4"/>
-      <stop offset="100%" stop-color="#45b7d1"/>
-    </linearGradient>
-  </defs>
-  <rect x="10" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
-  <rect x="80" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
-  <rect x="150" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
-  <rect x="220" y="6" width="60" height="26" rx="13" fill="url(#snake-gradient)" />
- 
-</svg>
 
 
-<br/>
 
-<!-- Typing animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Python+%7C+Julia+Developer+%F0%9F%90%8D%F0%9F%94%B4;Scientific+Computing+%E2%9A%A1;High-Performance+Code+%F0%9F%9A%80;Data+Science+%26+Analytics+%F0%9F%93%8A;Where+Elegance+Meets+Efficiency+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibarvivas)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibar-Dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ibar-Dev&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Ibar-Dev)
-
-<br/>
 
 <!-- GIF decorativo -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1500">
 
 </div>
 
