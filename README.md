@@ -1,11 +1,14 @@
 <div align="center">
 
-# Ibar E. Vivas
-## Computational Developer & Data Enthusiast
+<!--# Ibar E. Vivas
+## Computational Developer & Data Enthusiast-->
 
 <!-- CABECERA CON ANIMACIÓN Y GRADIENTE -->
-![Header Cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=333333,00FFFF,666666&height=180&section=header&text=Ibar%20E.%20Vivas&fontSize=42&fontColor=fff&animation=rainbow&fontAlignY=32&desc=Computational%20Developer%20%26%20Data%20Enthusiast&descAlignY=51&descAlign=50)
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF00,50:00FFFF,100:FF00FF&height=200&section=header&text=IBAR%20E.%20VIVAS&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⚡%20Computational%20Developer%20|%20Python%20🐍%20Julia%20🔴%20|%20High%20Performance%20Computing%20⚡&descAlignY=65&descAlign=50&descSize=18" alt="Header"/>
+
+</div>
 <!-- Gradiente SVG personalizado tipo snake segment -->
 <svg width="320" height="38" viewBox="0 0 320 38" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
